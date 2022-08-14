@@ -50,6 +50,8 @@ https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/in
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png",ERT World
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="FastFunBox.us" tvg-logo="",Fast&Fun Box
+http://iptv.prosto.tv:7000/ch120/video.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Game Show
 https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Gear Head
@@ -208,6 +210,8 @@ http://203.77.246.50:5000/udp/239.1.2.134:5000
 #EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/discovery-asia-hk.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-id="DocuBox.us" tvg-logo="",DocuBox
+http://iptv.prosto.tv:7000/ch93/video.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",History (AnthymTV)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-4k-ca.png",Love Nature 4K
@@ -235,6 +239,8 @@ https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b5000000.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVAsia.fr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/fashion-tv-int.png",FashionTV Singapore
 https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionBox.us" tvg-logo="",FashionBox
+http://iptv.prosto.tv:7000/ch144/video.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="Example.un",Food
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOOD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="Example.un",Home
@@ -261,6 +267,8 @@ http://210.210.155.35/dr9445/h/h14/index.m3u8
 http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="CinemaxSingapore.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/cinemax-hk.png",Cinemax (down)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="FilmBoxArthouse.us" tvg-logo="",FilmBox Arthouse
+http://iptv.prosto.tv:7000/ch63/video.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="",Star Chinese Movies
 http://1tv1.net:8080/live/hamza2022/123456/70034.ts
 #EXTINF:-1 group-title="Movies" tvg-id="TVNMovies.hk",tvN Movies
@@ -345,6 +353,8 @@ https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
 #EXTGRP: Sports
 #EXTINF:-1 group-title="Sports" tvg-id="Example.un",Fight
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FightBox.us" tvg-logo="",FightBox
+http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" group-title="Sports",MUTV
