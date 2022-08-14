@@ -1,4 +1,26 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml" refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,
+https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,
+https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,
+https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,
+https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,
+https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,
+https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,
+https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,
+https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,
+https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,
+https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,
+https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,
+https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,
+https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,
+https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,
+https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,
+https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml" refresh="3600"
 
 #EXTM3U
 #EXTGRP: Anime
@@ -11,7 +33,7 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8
 https://sub2.neetball.net/live/neet.m3u8
 
 #EXTGRP: Entertainment
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Americanna Channel
+#EXTINF:-1 group-title="Entertainment" tvg-id="Americanna.us" tvg-logo="",Americanna Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Classics/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="AXNHDSingapore.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/axn-hk.png",AXN
 http://203.77.246.50:5000/udp/239.1.2.142:5000 
@@ -19,9 +41,9 @@ http://203.77.246.50:5000/udp/239.1.2.142:5000
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/1Chamk9.png",BTV World
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Comedy
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Comedy
 https://bk7l2w4nlx53-hls-live.5centscdn.com/SNL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Cops
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="https://i.imgur.com/ED2jB5z.jpg",Cops
 https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="CTSTV.kr",CTS기독교TV
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
@@ -29,16 +51,16 @@ https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/in
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png",ERT World
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Game Show
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Game Show
 https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Gear Head
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Gear Head
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Chassy/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="GEM.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/gem-sg.png",GEM TV Asia
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 ##http://203.77.246.50:5000/udp/239.1.2.146:5000
 #EXTINF:-1 group-title="Entertainment" tvg-id="Hits.sg" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",Hits
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Jerry
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Jerry
 https://bk7l2w4nlx53-hls-live.5centscdn.com/JERRY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Kanal10Asia.se" tvg-logo="https://i.imgur.com/RQXBwlz.png",Kanal 10 Asia
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
@@ -48,9 +70,11 @@ http://210.210.155.37/dr9445/h/h07/index.m3u8
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="KPlus.sg" tvg-logo="https://i.postimg.cc/rFjRN2Ps/K-plus-logo-remake.png",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="LotusMacau.mo",Lotus Macau
+#EXTINF:-1 group-title="Entertainment" tvg-id="LotusMacau.mo" tvg-logo="",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8#http://nettvpro.live/hls/lotustv.php
-#EXTINF:-1 group-title="Entertainment" tvg-id="MBCTV.kr",MBC
+#EXTINF:-1 group-title="Entertainment" tvg-id="MakkalTV.in" tvg-logo="",Makkal TV
+http://14.199.164.20:4001/play/a0l1/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="MBCTV.kr" tvg-logo="",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="MNBWorld.mn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-world-mn.png",MNB world
 https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
@@ -59,13 +83,13 @@ https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="OneTVAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/one-sg.png",ONE TV Asia
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 ##http://203.77.246.50:5000/udp/239.1.2.236:5000
-#EXTINF:-1 group-title="Entertainment" tvg-id="OBSGyeonginTV.kr",OBS Gyeongin TV
+#EXTINF:-1 group-title="Entertainment" tvg-id="OBSGyeonginTV.kr" tvg-logo="",OBS Gyeongin TV
 https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Pawn
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="https://i.imgur.com/MkOnIBs.jpg",Pawn
 https://bk7l2w4nlx53-hls-live.5centscdn.com/PawnStars/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="PlayWorks.us" tvg-logo="",Play.Works
+#EXTINF:-1 group-title="Entertainment" tvg-id="PlayWorks.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/playworksdigital_playworks_1.png",Play.Works
 https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https://app.plex.tv&ads.consent=0&ads.gdpr=1&ads.plex_id=5f0ff263d71dcb00449ec01e&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.ua=Mozilla/5.0+(Windows+NT+6.1;+rv:83.0)+Gecko/20100101+Firefox/83.0&ads.us_privacy=1---&ads.wurl_channel=512&ads.wurl_name=PlayWorks
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Reality
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Reality
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="RockEntertainment.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-entertainment-asi.png",ROCK Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
@@ -83,23 +107,23 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Star World 家庭樂趣
 http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Swam Folk
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Swam Folk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVNAsia.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvn-hk.png",tvN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",True Crime
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",True Crime
 https://bk7l2w4nlx53-hls-live.5centscdn.com/CRIME/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVEInternacionalAsiaOceania.es",TVE Internacional Asia-Oceania
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png",TVM Internacional
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Wild West
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Wild West
 https://bk7l2w4nlx53-hls-live.5centscdn.com/WildWest/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",X.PD
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",X.PD
 https://cutt.ly/dFiEN0a
 #EXTINF:-1 group-title="Entertainment" tvg-id="ZeeTVAsiaPacific.sg",Zee TV
 http://144.217.70.181:9587/hin2/ZEETVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",911 Network
+#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",911 Network
 https://bk7l2w4nlx53-hls-live.5centscdn.com/XPD/ba50d07d532990bcd7c359a1087d85af.sdp/playlist.m3u8
 
 #EXTGRP: Infotainment
@@ -324,6 +348,8 @@ https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports",Ski TV
