@@ -76,6 +76,8 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8#http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1 group-title="Entertainment" tvg-id="MakkalTV.in" tvg-logo="",Makkal TV
 http://14.199.164.20:4001/play/a0l1/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="MyxGlobal.us",Myx
+https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="MBCTV.kr" tvg-logo="",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="MNBWorld.mn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-world-mn.png",MNB world
@@ -265,6 +267,8 @@ http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 http://210.210.155.35/dr9445/h/h14/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="CinemaWorld.my",CinemaWorld
 http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="CinemaOneGlobal.ph",Cinema One Global
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="CinemaxSingapore.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/cinemax-hk.png",Cinemax
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429872
 #EXTINF:-1 group-title="Movies" tvg-id="FilmBoxArthouse.us" tvg-logo="",FilmBox Arthouse
@@ -359,6 +363,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorvisionTV.de" group-title="Sports",Motorvision
+http://210.210.155.35/uq2663/h/h09/index.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" group-title="Sports",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV
