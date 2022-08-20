@@ -48,7 +48,7 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 http://210.210.155.37/dr9445/h/h07/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/kbs-world-int.png",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KPlus.sg" tvg-logo="https://i.postimg.cc/rFjRN2Ps/K-plus-logo-remake.png",K+
+#EXTINF:-1 group-title="Entertainment" tvg-id="KPlus.sg" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KPlus.png",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="LotusMacau.mo" tvg-logo="",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8#http://nettvpro.live/hls/lotustv.php
@@ -92,11 +92,13 @@ http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldIndia.in",Star World India
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarWorld.tw",Star World Taiwan
-http://59.125.122.90:18504/.m3u8
+http://59.125.122.90:18504/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Swam Folk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVNAsia.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvn-hk.png",tvN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="TraceUrbanAsia.fr" tvg-logo="",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",True Crime
 https://bk7l2w4nlx53-hls-live.5centscdn.com/CRIME/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVEInternacionalAsiaOceania.es",TVE Internacional Asia-Oceania
@@ -164,11 +166,16 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="PhoenixInfonewsChannel.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/phoenix-infonews-channel-hk.png",Phoenix InfoNews Channel
 http://210.210.155.37/qwr9ew/s/s21/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="StarChineseChannelTaiwan.hk" tvg-logo="",Star Chinese Channel Taiwan
-http://59.125.122.90:18522/.m3u8
+http://61.219.170.95:18522/.m3u8#http://59.125.122.90:18522/.m3u8#http://60.251.33.252:18522/.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/TheIndonesiaChannel.png",The Indonesia Channel
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="TheFilipinoChannelAsia.us" tvg-logo="",TFC Asia
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="TV5MondeAsia.fr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/tv5-monde-int.png",TV5Monde Asie
 http://210.210.155.37/dr9445/s/s24/index.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-id="UATV.ua" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",UATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://ua-tv.cdn-02.cosmonova.net.ua/hls/ua-tv_ua.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="WION.in",Wion
 http://210.210.155.37/uq2663/h/h91/index.m3u8
 
@@ -276,7 +283,7 @@ https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429847
 #EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="",Star Chinese Movies Asia
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429838
 #EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesTaiwan.hk" tvg-logo="",Star Chinese Movies HD Taiwan
-http://59.125.122.90:18529/.m3u8
+http://61.219.170.95:18529/.m3u8#http://59.125.122.90:18529/.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarMovies.in" tvg-logo="",Star Movies India
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="TVNMovies.hk",tvN Movies
@@ -359,10 +366,14 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/BUSINESS/961ac1c875f5884f31bdd177365
 https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
 
 #EXTGRP: Sports/Gaming
+#EXTINF:-1 group-title="Sports/Gaming" tvg-id="eGGNetwork.my",Egg Network
+http://210.210.155.37/uq2663/h/h22/index.m3u8
 #EXTINF:-1 group-title="Sports/Gaming" tvg-id="Example.un",Fight
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Sports/Gaming" tvg-id="FightBox.us" tvg-logo="",FightBox
 http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 group-title="Sports/Gaming" tvg-id="FightSports.us",Fight Sports
+http://210.210.155.35/dr9445/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports/Gaming",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTV.de" group-title="Sports/Gaming",Motorvision
@@ -377,9 +388,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 group-title="Sports/Gaming" tvg-id="Example.un",SportTalk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/SportsCenter/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Sports/Gaming" tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/3rgYdP6Y/SPOTV2.png",SPOTV
+#EXTINF:-1 group-title="Sports/Gaming" tvg-id="SPOTV.kr" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SPOTV2.png",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 group-title="Sports/Gaming" tvg-id="SPOTV2.kr" tvg-logo="https://i.postimg.cc/3rgYdP6Y/SPOTV2.png",SPOTV2
+#EXTINF:-1 group-title="Sports/Gaming" tvg-id="SPOTV2.kr" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SPOTV2.png",SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Sports/Gaming" tvg-id="TraceSportStars.fr" tvg-logo="",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports/Gaming",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
