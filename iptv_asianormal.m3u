@@ -113,6 +113,9 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/XPD/ba50d07d532990bcd7c359a1087d85af
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="Example.un" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/arirang-int.png",Arirang Radio
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-id="AsiaTravel.tw" tvg-logo="",Asia Travel
+http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+##http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 #EXTINF:-1 group-title="Infotainment" tvg-id="ANC.ph" tvg-logo="",ANC
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="BloombergTVAsiaPacific.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bloomberg-television-us.png",Bloomberg Television
@@ -156,6 +159,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="PhoenixInfonewsChannel.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/phoenix-infonews-channel-hk.png",Phoenix InfoNews Channel
 http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-id="StarChineseChannelTaiwan.hk" tvg-logo="",Star Chinese Channel Taiwan
+http://59.125.122.90:18522/.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="TheFilipinoChannelAsia.us" tvg-logo="",TFC Asia
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="TV5MondeAsia.fr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/tv5-monde-int.png",TV5Monde Asie
@@ -186,14 +191,23 @@ https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
 #EXTGRP: Knowledge
 #EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",Animal
 https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-id="AnimalPlanetHongKong.hk",Animal
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 #EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",Discover
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="",Discovery
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429928
+http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/discovery-asia-hk.png",Discovery Asia
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429929
+http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+##http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+#EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryScienceHongKong.hk" tvg-logo="",Discovery Science
+http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+##http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 #EXTINF:-1 group-title="Knowledge" tvg-id="DocuBox.us" tvg-logo="",DocuBox
 http://iptv.prosto.tv:7000/ch93/video.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-id="DMAXHongKong.hk" tvg-logo="",DMAX
+http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+##http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 #EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",History (AnthymTV)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-4k-ca.png",Love Nature 4K
@@ -255,8 +269,10 @@ https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429872
 http://iptv.prosto.tv:7000/ch63/video.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="HitsMovies.sg" tvg-logo="",Hits Movies
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429847
-#EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="",Star Chinese Movies
+#EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="",Star Chinese Movies Asia
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429838
+#EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesTaiwan.hk" tvg-logo="",Star Chinese Movies HD Taiwan
+http://59.125.122.90:18529/.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="TVNMovies.hk",tvN Movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 
