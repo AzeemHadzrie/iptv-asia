@@ -83,12 +83,16 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png",Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="StarBharat.in",Star Bharat
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarGold.in",Star Gold
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarPlus.in",Star Plus
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un",Star World Taiwan
-http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldIndia.in",Star World India
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorld.tw",Star World Taiwan
+http://59.125.122.90:18504/.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Swam Folk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVNAsia.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvn-hk.png",tvN
@@ -273,6 +277,8 @@ https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429847
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429838
 #EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesTaiwan.hk" tvg-logo="",Star Chinese Movies HD Taiwan
 http://59.125.122.90:18529/.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="StarMovies.in" tvg-logo="",Star Movies India
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="TVNMovies.hk",tvN Movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 
