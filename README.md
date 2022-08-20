@@ -11,3 +11,11 @@ ATTENTION! This playlist is on WIP, not only channels is completed some of them 
 - Indonesia FTA local channels: **WIP**
 - Brunei FTA local channels: **WIP**
 - Thailand FTA local channels: **WIP**
+
+# Channels not working
+
+- AnthymTV channels: After hours it hangs
+- DaAi1/2: After hours it hangs
+- NowJelli: A prop channel.
+- SPI International channels: After 2 minutes it show a locked screen
+- Star World Taiwan: Audio still plays but video offline for some players
