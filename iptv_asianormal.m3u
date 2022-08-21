@@ -152,6 +152,8 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="DWEnglish.de" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/dw-english-int.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-id="ETTVAmerica.tw" tvg-logo="",ETTV America
+http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="MacauAsiaSatelliteTV.mo" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/mastv-hk.png",MasTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -202,7 +204,7 @@ https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
 #EXTGRP: Knowledge
 #EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",Animal
 https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-id="AnimalPlanetHongKong.hk",Animal
+#EXTINF:-1 group-title="Knowledge" tvg-id="AnimalPlanetHongKong.hk",Animal Planet Mandarin
 http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 #EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",Discover
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
