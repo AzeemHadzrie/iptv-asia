@@ -154,6 +154,8 @@ http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="ETTVAmerica.tw" tvg-logo="",ETTV America
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-id="KMTVAsia.sg" tvg-logo="",KMTV Asia
+https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KMTV/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="MacauAsiaSatelliteTV.mo" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/mastv-hk.png",MasTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -198,7 +200,9 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="MiaoMi.hk" tvg-logo="",Miao Mi
 https://allanf181.github.io/adaptive-streams/streams/hk/MiaoMi.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="ZooMoo.us" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/zoo-moo-int.png",ZooMoo
+#EXTINF:-1 group-title="Kids" tvg-id="MoonbugKids.uk" tvg-logo="",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="ZooMooAsia.nz" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/zoo-moo-int.png",ZooMoo
 https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
 
 #EXTGRP: Knowledge
@@ -223,8 +227,10 @@ http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE312235203122352
 ##http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 #EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",History (AnthymTV)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-4k-ca.png",Love Nature 4K
+#EXTINF:-1 group-title="Knowledge" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-ca.png",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-id="LoveNature4K.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-4k-ca.png",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="NationalGeographicHDSingapore.sg" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
@@ -246,10 +252,16 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Lifestyle",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVAsia.fr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/fashion-tv-int.png",FashionTV Singapore
-https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="FashionBox.us" tvg-logo="",FashionBox
 http://iptv.prosto.tv:7000/ch144/video.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVMidnightSecrets.fr",FashionTV Midnight Secrets
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVPG13.fr",FashionTV PG13
+https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVPG16.fr",FashionTV PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVAsia.fr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/fashion-tv-int.png",FashionTV Singapore
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="Example.un",Food
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOOD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="Example.un",Home
@@ -282,6 +294,8 @@ https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429872
 http://iptv.prosto.tv:7000/ch63/video.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="HitsMovies.sg" tvg-logo="",Hits Movies
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429847
+#EXTINF:-1 group-title="Movies" tvg-id="MyCinemaEurope.ch",My Cinema Europe
+http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="",Star Chinese Movies Asia
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429838
 #EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesTaiwan.hk" tvg-logo="",Star Chinese Movies HD Taiwan
@@ -368,6 +382,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/BUSINESS/961ac1c875f5884f31bdd177365
 https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
 
 #EXTGRP: Sports/Gaming
+#EXTINF:-1 group-title="Sports/Gaming" tvg-id="BeinSports.qa",Bein Sports
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
 #EXTINF:-1 group-title="Sports/Gaming" tvg-id="eGGNetwork.my",Egg Network
 http://210.210.155.37/uq2663/h/h22/index.m3u8
 #EXTINF:-1 group-title="Sports/Gaming" tvg-id="EDGEsport.us",EDGEsport
