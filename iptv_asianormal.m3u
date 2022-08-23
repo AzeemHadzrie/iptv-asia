@@ -1,7 +1,10 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml" refresh="3600" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml" refresh="3600" max-conn="1" refresh="24" m3uautoload="1"
 
 #EXTGRP: Anime
 #EXTINF:-1 group-title="Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax (VN feed)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Anime" tvg-id="AnimaxAsiaPlus1.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" tvg-shift="+1" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax +1 (VN feed)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Anime" tvg-id="Aniplus.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png",Aniplus
@@ -48,6 +51,8 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 http://210.210.155.37/dr9445/h/h07/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/kbs-world-int.png",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="KBSWorldPlus1.kr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/kbs-world-int.png" tvg-shift="+1",KBS World +1
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="KPlus.sg" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KPlus.png",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="LotusMacau.mo" tvg-logo="",Lotus Macau
@@ -62,6 +67,8 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NHKWorldPremium.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png",NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="NHKWorldPremiumPlus1.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png" tvg-shift="+1",NHK World Premium +1
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="OneTVAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/one-sg.png",ONE TV Asia
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 ##http://203.77.246.50:5000/udp/239.1.2.236:5000
@@ -70,7 +77,7 @@ https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="https://i.imgur.com/MkOnIBs.jpg",Pawn
 https://bk7l2w4nlx53-hls-live.5centscdn.com/PawnStars/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="PlayWorks.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/playworksdigital_playworks_1.png",Play.Works
-https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https://app.plex.tv&ads.consent=0&ads.gdpr=1&ads.plex_id=5f0ff263d71dcb00449ec01e&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.ua=Mozilla/5.0+(Windows+NT+6.1;+rv:83.0)+Gecko/20100101+Firefox/83.0&ads.us_privacy=1---&ads.wurl_channel=512&ads.wurl_name=PlayWorks
+https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Reality
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="RockEntertainment.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-entertainment-asi.png",ROCK Entertainment
@@ -93,6 +100,28 @@ http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarWorld.tw",Star World Taiwan
 http://59.125.122.90:18504/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" group-title="Entertainment",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" group-title="Entertainment",Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" group-title="Entertainment",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" group-title="Entertainment",Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" group-title="Entertainment",Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" group-title="Entertainment",Stingray Hot Country
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" group-title="Entertainment",Stingray Pop Adult
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" group-title="Entertainment",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" group-title="Entertainment",Stingray Soul Storm
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/134/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" group-title="Entertainment",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" group-title="Entertainment",Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Swam Folk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVNAsia.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvn-hk.png",tvN
@@ -154,7 +183,7 @@ http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="ETTVAmerica.tw" tvg-logo="",ETTV America
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-id="KMTVAsia.sg" tvg-logo="",KMTV Asia
+#EXTINF:-1 group-title="Infotainment" tvg-id="KMTV.kr" tvg-logo="",KMTV Asia
 https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KMTV/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="MacauAsiaSatelliteTV.mo" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/mastv-hk.png",MasTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -280,6 +309,8 @@ http://210.210.155.35/dr9445/h/h01/index.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTGRP: Movies
+#EXTINF:-1 tvg-id="BoogleBollywood.in" group-title="Movies",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="CelestialClasicMovies.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-classic-movies-hk.png",Celestial Classic Movies
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="CelestialMovies.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-movies-hk.png",Celestial Movies
@@ -352,7 +383,11 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8#https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8#https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
 #EXTINF:-1 group-title="News" tvg-id="Example.un",Hollywood
 https://bk7l2w4nlx53-hls-live.5centscdn.com/POP/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="NHKWorldJapanPlus1.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png" tvg-shift="+1",NHK World +1
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="NNN24.jp",NNN News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8#https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8#http://www.news24.jp/livestream/index.m3u8
