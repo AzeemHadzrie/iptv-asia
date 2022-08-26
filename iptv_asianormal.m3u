@@ -184,7 +184,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="ETTVAmerica.tw" tvg-logo="",ETTV America
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="KMTV.kr" tvg-logo="",KMTV Asia
-https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KMTV/playlist.m3u8
+https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="MacauAsiaSatelliteTV.mo" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/mastv-hk.png",MasTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -211,6 +211,8 @@ http://210.210.155.37/dr9445/s/s24/index.m3u8
 https://ua-tv.cdn-02.cosmonova.net.ua/hls/ua-tv_ua.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="WION.in",Wion
 http://210.210.155.37/uq2663/h/h91/index.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-id="XingKongInternational.cn",Xing Kong
+http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 
 #EXTGRP: Kids
 #EXTINF:-1 group-title="Kids" tvg-id="BoomerangAsia.sg" tvg-logo="",Boomerang
