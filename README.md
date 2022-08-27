@@ -15,6 +15,7 @@ ATTENTION! This playlist is on WIP, not only channels is completed some of them 
 # Channels not working
 
 - AnthymTV channels: After hours it hangs
+- CNA: Only Japan Hour because not available outside Singapore
 - DaAi1/2: After hours it hangs
 - NowJelli: A prop channel.
 - SPI International channels: After 2 minutes it show a locked screen
