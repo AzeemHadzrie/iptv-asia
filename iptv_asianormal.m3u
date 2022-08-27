@@ -172,7 +172,7 @@ https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="CGTNSpanish.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cgtn-spanish-int.png",CGTN Spanish
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="CNA.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cna-int.png",CNA International
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://mediacorp-videosbclive.akamaized.net/c6717ac64d72465eae79bfbc2064d893/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="DaAi1.tw",DaAi Television
 https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="DaAi2.tw",DaAi2
