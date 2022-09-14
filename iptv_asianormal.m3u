@@ -53,7 +53,7 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b25
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="KPlus.sg" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KPlus.png",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KContentbyCJENM.us",K Content by CJ ENM
+#EXTINF:-1 group-title="Entertainment" tvg-id="KContentbyCJENM.us" tvg-logo="https://raw.githubcontent.com/AzeemHadzrie/iptv-asia/master/assets/KContentByCJENM.png",K Content by CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="LotusMacau.mo" tvg-logo="",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8#http://nettvpro.live/hls/lotustv.php
@@ -108,11 +108,11 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="" tvg-shift="0",True Crime
 https://bk7l2w4nlx53-hls-live.5centscdn.com/CRIME/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVBClassic.hk",TVB Classic
+#EXTINF:-1 group-title="Entertainment" tvg-id="TVBClassic.hk" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Classic.png",TVB Classic
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21061
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVBJadeMalaysia.my",TVB Jade
+#EXTINF:-1 group-title="Entertainment" tvg-id="TVBJadeMalaysia.my" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Jade.png",TVB Jade
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20653
-#EXTINF:-1 group-title="Entertainment" tvg-id="TVBXingHe.hk",TVB Xing He
+#EXTINF:-1 group-title="Entertainment" tvg-id="TVBXingHe.hk" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Xing%20He.png",TVB Xing He
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20114 
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVEInternacionalAsiaOceania.es" tvg-shift="0",TVE Internacional Asia-Oceania
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
@@ -182,7 +182,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="PhoenixInfonewsChannel.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/phoenix-infonews-channel-hk.png",Phoenix InfoNews Channel
 http://210.210.155.37/qwr9ew/s/s21/index.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-id="StarChineseChannel.hk" tvg-logo="",Star Chinese Channel Taiwan
+#EXTINF:-1 group-title="Infotainment" tvg-id="StarChineseChannel.hk" tvg-logo="https://iptv-pro.github.io/logo/Star%20Chinese%20Channel.png",Star Chinese Channel Taiwan
 http://61.219.170.95:18522/.m3u8#http://59.125.122.90:18522/.m3u8#http://60.251.33.252:18522/.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/TheIndonesiaChannel.png",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
@@ -322,12 +322,12 @@ http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="RushbyAMC.us",Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="",Star Chinese Movies Asia
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429838
+https://nonton.site:8443/live/mustakim/mustakim/780.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesTaiwan.hk" tvg-logo="",Star Chinese Movies HD Taiwan
 http://61.219.170.95:18529/.m3u8#http://59.125.122.90:18529/.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarMovies.in" tvg-logo="",Star Movies India
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="StarMoviesMiddleEast.hk",Star Movies Middle East
+#EXTINF:-1 group-title="Movies" tvg-id="StarMoviesMiddleEast.hk" tvg-logo="",Star Movies Middle East
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20213&extension=ts&play_token=RfS1HRRyKs
 #EXTINF:-1 group-title="Movies" tvg-id="TVNMovies.hk",tvN Movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8
@@ -345,9 +345,13 @@ https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429881
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 
 #EXTGRP: Music
+#EXTINF:-1 group-title="Music" tvg-id="ChannelVChina.cn" tvg-logo="https://iptv-pro.github.io/logo/Channel%20%5BV%5D%20%E4%B8%AD%E5%9B%BD.png",Channel V
+http://203.77.246.50:5000/udp/239.1.1.144:5000
 #EXTINF:-1 group-title="Music" tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png",Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="MTVVietnam.vn" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MTV Vietnam
+#EXTINF:-1 group-title="Music" tvg-id="MTVLive.uk" tvg-logo="https://iptv-pro.github.io/logo/MTV%20Live.png",MTV Live
+https://nonton.site:8443/live/mustakim/mustakim/37460.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="MTVVietnam.vn" tvg-logo="https://iptv-pro.github.io/logo/MTV%E7%BB%BC%E5%90%88%E7%94%B5%E8%A7%86%E5%8F%B0.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MTV Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="StingrayQello.ca",Qello Concerts
