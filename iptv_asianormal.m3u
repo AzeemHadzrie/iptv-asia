@@ -98,7 +98,9 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldIndia.in",Star World India
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorld.tw",Star World Taiwan
+#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldMiddleEast.hk",Star World Middle East
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20158&extension=ts&play_token=UG9YMbValJ
+#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldTaiwan.tw",Star World Taiwan
 http://59.125.122.90:18504/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Swam Folk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -106,6 +108,12 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="" tvg-shift="0",True Crime
 https://bk7l2w4nlx53-hls-live.5centscdn.com/CRIME/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="TVBClassic.hk",TVB Classic
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21061
+#EXTINF:-1 group-title="Entertainment" tvg-id="TVBJadeMalaysia.my",TVB Jade
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20653
+#EXTINF:-1 group-title="Entertainment" tvg-id="TVBXingHe.hk",TVB Xing He
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20114 
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVEInternacionalAsiaOceania.es" tvg-shift="0",TVE Internacional Asia-Oceania
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" tvg-shift="0",TVM Internacional
@@ -174,7 +182,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="PhoenixInfonewsChannel.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/phoenix-infonews-channel-hk.png",Phoenix InfoNews Channel
 http://210.210.155.37/qwr9ew/s/s21/index.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-id="StarChineseChannelTaiwan.hk" tvg-logo="",Star Chinese Channel Taiwan
+#EXTINF:-1 group-title="Infotainment" tvg-id="StarChineseChannel.hk" tvg-logo="",Star Chinese Channel Taiwan
 http://61.219.170.95:18522/.m3u8#http://59.125.122.90:18522/.m3u8#http://60.251.33.252:18522/.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/TheIndonesiaChannel.png",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
@@ -303,6 +311,10 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemao
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429872
 #EXTINF:-1 group-title="Movies" tvg-id="FilmBoxArthouse.us" tvg-logo="",FilmBox Arthouse
 http://iptv.prosto.tv:7000/ch63/video.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="FoxActionMoviesMiddleEast.qa",Fox Action Movies
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
+#EXTINF:-1 group-title="Movies" tvg-id="FoxMoviesMiddleEast.qa",Fox Movies
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 #EXTINF:-1 group-title="Movies" tvg-id="HitsMovies.sg" tvg-logo="",Hits Movies
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429847
 #EXTINF:-1 group-title="Movies" tvg-id="MyCinemaEurope.ch",My Cinema Europe
@@ -315,6 +327,8 @@ https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429838
 http://61.219.170.95:18529/.m3u8#http://59.125.122.90:18529/.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarMovies.in" tvg-logo="",Star Movies India
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="StarMoviesMiddleEast.hk",Star Movies Middle East
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20213&extension=ts&play_token=RfS1HRRyKs
 #EXTINF:-1 group-title="Movies" tvg-id="TVNMovies.hk",tvN Movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 
