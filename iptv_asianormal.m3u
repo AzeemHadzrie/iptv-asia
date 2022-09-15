@@ -323,7 +323,7 @@ http://210.210.155.37/uq2663/h/h18/index.m3u8
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SCMChina.png",Star Chinese Movies Asia
 https://nonton.site:8443/live/mustakim/mustakim/780.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesTaiwan.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SCMChina.png",Star Chinese Movies HD Taiwan
+#EXTINF:-1 group-title="Movies" tvg-id="StarChineseMovies.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SCMChina.png",Star Chinese Movies HD Taiwan
 http://61.219.170.95:18529/.m3u8#http://59.125.122.90:18529/.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarMoviesHDIndia.in" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png",Star Movies India
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
