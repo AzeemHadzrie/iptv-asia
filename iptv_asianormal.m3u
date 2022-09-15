@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz" refresh="3600" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml.gz,https://weareblahs.github.io/epg/astro.xml" refresh="3600" m3uautoload="1"
 
 #EXTGRP: Anime
 #EXTINF:-1 group-title="Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax (VN feed)
@@ -21,9 +21,9 @@ https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429853
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+International_all/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/1Chamk9.png",BTV World
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Comedy
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="",Comedy
 https://bk7l2w4nlx53-hls-live.5centscdn.com/SNL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="https://i.imgur.com/ED2jB5z.jpg",Cops
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="https://i.imgur.com/ED2jB5z.jpg",Cops
 https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="CTSTV.kr",CTS Christian TV
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
@@ -31,9 +31,9 @@ https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/in
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="FastFunBox.us" tvg-logo="",Fast&Fun Box
 http://iptv.prosto.tv:7000/ch120/video.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Game Show
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="",Game Show
 https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Gear Head
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="",Gear Head
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Chassy/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="GEM.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/gem-sg.png",GEM TV Asia
 http://210.210.155.35/uq2663/h/h19/02.m3u8
@@ -41,7 +41,7 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 ##https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616430055
 #EXTINF:-1 group-title="Entertainment" tvg-id="Hits.sg" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",Hits
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Jerry
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="",Jerry
 https://bk7l2w4nlx53-hls-live.5centscdn.com/JERRY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Kanal10Asia.se" tvg-logo="https://i.imgur.com/RQXBwlz.png",Kanal 10 Asia
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
@@ -74,11 +74,11 @@ http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 ##http://203.77.246.50:5000/udp/239.1.2.236:5000
 #EXTINF:-1 group-title="Entertainment" tvg-id="OBSGyeonginTV.kr" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/OBSTele.png",OBS Gyeongin TV
 https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="https://i.imgur.com/MkOnIBs.jpg",Pawn
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="https://i.imgur.com/MkOnIBs.jpg",Pawn
 https://bk7l2w4nlx53-hls-live.5centscdn.com/PawnStars/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="PlayWorks.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/playworksdigital_playworks_1.png",Play.Works
 https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Reality
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="",Reality
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="RockEntertainment.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-entertainment-asi.png",ROCK Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
@@ -106,7 +106,7 @@ http://59.125.122.90:18504/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.1
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVNAsia.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvn-hk.png",tvN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="" tvg-shift="0",True Crime
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="" tvg-shift="0",True Crime
 https://bk7l2w4nlx53-hls-live.5centscdn.com/CRIME/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVBClassic.hk" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Classic.png",TVB Classic
 http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21061
@@ -118,19 +118,19 @@ http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20114
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" tvg-shift="0",TVM Internacional
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="" tvg-shift="0",Wild West
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="" tvg-shift="0",Wild West
 https://bk7l2w4nlx53-hls-live.5centscdn.com/WildWest/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="" tvg-shift="0",X.PD
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="" tvg-shift="0",X.PD
 https://cutt.ly/dFiEN0a
 #EXTINF:-1 group-title="Entertainment" tvg-id="ZeeTVAsiaPacific.sg" tvg-shift="0",Zee TV
 http://144.217.70.181:9587/hin2/ZEETVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="" tvg-shift="0",911 Network
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="" tvg-shift="0",911 Network
 https://bk7l2w4nlx53-hls-live.5centscdn.com/XPD/ba50d07d532990bcd7c359a1087d85af.sdp/playlist.m3u8
 
 #EXTGRP: Infotainment
 #EXTINF:-1 group-title="Infotainment" tvg-id="ArirangTV.kr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/arirang-int.png",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-id="Example.un" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/arirang-int.png",Arirang Radio
+#EXTINF:-1 group-title="Infotainment" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/arirang-int.png",Arirang Radio
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-id="AsiaTravel.tw" tvg-logo="",Asia Travel
 http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
@@ -221,11 +221,11 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
 
 #EXTGRP: Knowledge
-#EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",Animal
+#EXTINF:-1 group-title="Knowledge" tvg-id="CHN",Animal
 https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="AnimalPlanetHongKong.hk",Animal Planet Mandarin
 http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",Discover
+#EXTINF:-1 group-title="Knowledge" tvg-id="CHN",Discover
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="",Discovery
 http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
@@ -240,7 +240,7 @@ http://iptv.prosto.tv:7000/ch93/video.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="DMAXHongKong.hk" tvg-logo="",DMAX
 http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 ##http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-#EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",History (AnthymTV)
+#EXTINF:-1 group-title="Knowledge" tvg-id="CHN",History (AnthymTV)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-ca.png",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -254,7 +254,7 @@ https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Knowledge",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-id="Example.un",Outdoors
+#EXTINF:-1 group-title="Knowledge" tvg-id="CHN",Outdoors
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Outdoors/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Knowledge",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
@@ -277,17 +277,17 @@ https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVAsia.fr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/fashion-tv-int.png",FashionTV Singapore
 https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="Example.un",Food
+#EXTINF:-1 group-title="Lifestyle" tvg-id="CHN",Food
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOOD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="GustoTV.au",Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="Example.un",Home
+#EXTINF:-1 group-title="Lifestyle" tvg-id="CHN",Home
 https://bk7l2w4nlx53-hls-live.5centscdn.com/House/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="Example.un",Lifestyle
+#EXTINF:-1 group-title="Lifestyle" tvg-id="CHN",Lifestyle
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TLC/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Lifestyle",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="Example.un",Travel
+#EXTINF:-1 group-title="Lifestyle" tvg-id="CHN",Travel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="TravelxpHD.in" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/travelxp-in.png",Travelxp HD
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -400,9 +400,9 @@ http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/31093.m3u8
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="GlobalNews.ca",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8#https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8#https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 group-title="News" tvg-id="Example.un",Hollywood
+#EXTINF:-1 group-title="News" tvg-id="CHN",Hollywood
 https://bk7l2w4nlx53-hls-live.5centscdn.com/POP/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="",NDTV 24X7
+#EXTINF:-1 group-title="News" tvg-id="CHN",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -412,7 +412,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8#https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8#http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="News" tvg-id="Example.un",Politics
+#EXTINF:-1 group-title="News" tvg-id="CHN",Politics
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Politics/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="RBC.ru",RBC
 http://92.50.128.180/utv/1358/index.m3u8#http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
@@ -430,7 +430,7 @@ https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/53240
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="News" tvg-id="Example.un",WallStreet
+#EXTINF:-1 group-title="News" tvg-id="CHN",WallStreet
 https://bk7l2w4nlx53-hls-live.5centscdn.com/BUSINESS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="YTN.kr",YTN
 https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
@@ -442,7 +442,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
 http://210.210.155.37/uq2663/h/h22/index.m3u8
 #EXTINF:-1 group-title="Sports/Gaming" tvg-id="EDGEsport.us",EDGEsport
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports/Gaming" tvg-id="Example.un",Fight
+#EXTINF:-1 group-title="Sports/Gaming" tvg-id="CHN",Fight
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Sports/Gaming" tvg-id="FightBox.us" tvg-logo="",FightBox
 http://iptv.prosto.tv:7000/ch118/video.m3u8
@@ -462,7 +462,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51dd5d369acdb278
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports/Gaming",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-#EXTINF:-1 group-title="Sports/Gaming" tvg-id="Example.un",SportTalk
+#EXTINF:-1 group-title="Sports/Gaming" tvg-id="CHN",SportTalk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/SportsCenter/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Sports/Gaming" tvg-id="SPOTV.kr" tvg-logo="https://iptv-pro.github.io/logo/spotv.png",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
