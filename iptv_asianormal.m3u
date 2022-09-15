@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml.gz,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://raw.githubusercontent.com/iptv-org/epg/master/sites/startv.com/startv.com_in.channels.xml" refresh="3600" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml.gz,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz" refresh="3600" m3uautoload="1"
 
 #EXTGRP: Anime
 #EXTINF:-1 group-title="Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax (VN feed)
@@ -96,7 +96,7 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarPlus.in",Star Plus
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldIndia.in" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarWorldIndia.png",Star World India
+#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldHDIndia.in" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarWorldIndia.png",Star World India
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldMiddleEast.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarWorld.png",Star World Middle East
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20158&extension=ts&play_token=UG9YMbValJ
@@ -325,7 +325,7 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://nonton.site:8443/live/mustakim/mustakim/780.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesTaiwan.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SCMChina.png",Star Chinese Movies HD Taiwan
 http://61.219.170.95:18529/.m3u8#http://59.125.122.90:18529/.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="StarMovies.in" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png",Star Movies India
+#EXTINF:-1 group-title="Movies" tvg-id="StarMoviesHDIndia.in" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png",Star Movies India
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="StarMoviesMiddleEast.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png",Star Movies Middle East
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20213&extension=ts&play_token=RfS1HRRyKs
