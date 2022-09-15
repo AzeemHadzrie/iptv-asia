@@ -53,7 +53,7 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b25
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="KPlus.sg" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KPlus.png",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="KContentbyCJENM.us" tvg-logo="https://raw.githubcontent.com/AzeemHadzrie/iptv-asia/master/assets/KContentByCJENM.png",K Content by CJ ENM
+#EXTINF:-1 group-title="Entertainment" tvg-id="KContentbyCJENM.us" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KContentByCJENM.png",K Content by CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="LotusMacau.mo" tvg-logo="",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8#http://nettvpro.live/hls/lotustv.php
@@ -72,7 +72,7 @@ https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="OneTVAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/one-sg.png",ONE TV Asia
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 ##http://203.77.246.50:5000/udp/239.1.2.236:5000
-#EXTINF:-1 group-title="Entertainment" tvg-id="OBSGyeonginTV.kr" tvg-logo="",OBS Gyeongin TV
+#EXTINF:-1 group-title="Entertainment" tvg-id="OBSGyeonginTV.kr" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/OBSTele.png",OBS Gyeongin TV
 https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="https://i.imgur.com/MkOnIBs.jpg",Pawn
 https://bk7l2w4nlx53-hls-live.5centscdn.com/PawnStars/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -96,11 +96,11 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarPlus.in",Star Plus
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldIndia.in",Star World India
+#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldIndia.in" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarWorldIndia.png",Star World India
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldMiddleEast.hk",Star World Middle East
+#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldMiddleEast.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarWorld.png",Star World Middle East
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20158&extension=ts&play_token=UG9YMbValJ
-#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldTaiwan.tw",Star World Taiwan
+#EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldTaiwan.tw" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarWorld.png",Star World Taiwan
 http://59.125.122.90:18504/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Swam Folk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -311,9 +311,9 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemao
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429872
 #EXTINF:-1 group-title="Movies" tvg-id="FilmBoxArthouse.us" tvg-logo="",FilmBox Arthouse
 http://iptv.prosto.tv:7000/ch63/video.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="FoxActionMoviesMiddleEast.qa",Fox Action Movies
+#EXTINF:-1 group-title="Movies" tvg-id="FoxActionMoviesMiddleEast.qa" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/FoxMoviesActionMENA.png",Fox Action Movies
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
-#EXTINF:-1 group-title="Movies" tvg-id="FoxMoviesMiddleEast.qa",Fox Movies
+#EXTINF:-1 group-title="Movies" tvg-id="FoxMoviesMiddleEast.qa" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/FoxMoviesMENA.png",Fox Movies
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 #EXTINF:-1 group-title="Movies" tvg-id="HitsMovies.sg" tvg-logo="",Hits Movies
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429847
@@ -321,13 +321,13 @@ https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429847
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="RushbyAMC.us",Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="",Star Chinese Movies Asia
+#EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SCMChina.png",Star Chinese Movies Asia
 https://nonton.site:8443/live/mustakim/mustakim/780.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesTaiwan.hk" tvg-logo="",Star Chinese Movies HD Taiwan
+#EXTINF:-1 group-title="Movies" tvg-id="StarChineseMoviesTaiwan.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SCMChina.png",Star Chinese Movies HD Taiwan
 http://61.219.170.95:18529/.m3u8#http://59.125.122.90:18529/.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="StarMovies.in" tvg-logo="",Star Movies India
+#EXTINF:-1 group-title="Movies" tvg-id="StarMovies.in" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png",Star Movies India
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="StarMoviesMiddleEast.hk" tvg-logo="",Star Movies Middle East
+#EXTINF:-1 group-title="Movies" tvg-id="StarMoviesMiddleEast.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png",Star Movies Middle East
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20213&extension=ts&play_token=RfS1HRRyKs
 #EXTINF:-1 group-title="Movies" tvg-id="TVNMovies.hk",tvN Movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8
@@ -356,6 +356,8 @@ https://nonton.site:8443/live/mustakim/mustakim/37460.m3u8
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="StingrayQello.ca",Qello Concerts
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayIConcerts.ch",Stingray iConcerts
+http://myott.top/stream/P4H2M76YRH/267.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="StingrayDjazz.nl",Stingray Djazz
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="StingrayKaraoke.ca",Stingray Karaoke
@@ -363,7 +365,7 @@ https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="StingrayNaturescape.us",Stingray Naturescape
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="TraceUrbanAsia.fr" tvg-logo="",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+http://78.129.237.68/tsstreamer/TraceUrbanasiaLDAI_SD.ts
 
 #EXTGRP: News
 #EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish.qa" tvg-logo="",Al Jazeera English
@@ -462,7 +464,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 group-title="Sports/Gaming" tvg-id="Example.un",SportTalk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/SportsCenter/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Sports/Gaming" tvg-id="SPOTV.kr" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SPOTV2.png",SPOTV
+#EXTINF:-1 group-title="Sports/Gaming" tvg-id="SPOTV.kr" tvg-logo="https://iptv-pro.github.io/logo/spotv.png",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 group-title="Sports/Gaming" tvg-id="SPOTV2.kr" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SPOTV2.png",SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
