@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml.gz,https://weareblahs.github.io/epg/astro.xml" refresh="3600" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml.gz,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://raw.githubusercontent.com/iptv-org/epg/master/sites/startv.com/startv.com_in.channels.xml" refresh="3600" m3uautoload="1"
 
 #EXTGRP: Anime
 #EXTINF:-1 group-title="Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax (VN feed)
@@ -456,7 +456,7 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 http://210.210.155.35/uq2663/h/h09/index.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" group-title="Sports/Gaming",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRoblox.us" group-title="Sports/Gaming",Pluto TV Roblox
+#EXTINF:-1 tvg-id="GameplayRoblox.us" group-title="Sports/Gaming",Pluto TV Roblox
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51dd5d369acdb278dfb05d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51dd5d369acdb278dfb05d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=816&terminate=false&userId=
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports/Gaming",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
