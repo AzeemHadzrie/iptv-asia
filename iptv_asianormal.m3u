@@ -93,7 +93,7 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20158&extension=ts&play_token=UG9YMbValJ
 #EXTINF:-1 group-title="Entertainment" tvg-id="StarWorldTaiwan.tw" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarWorld.png",Star World Taiwan
 http://59.125.122.90:18504/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Example.un" tvg-logo="",Swam Folk
+#EXTINF:-1 group-title="Entertainment" tvg-id="CHN" tvg-logo="",Swam Folk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TVNAsia.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvn-hk.png",tvN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
@@ -219,7 +219,7 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="MiaoMi.hk" tvg-logo="",Miao Mi
 https://allanf181.github.io/adaptive-streams/streams/hk/MiaoMi.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="MoonbugKids.uk" tvg-logo="",Moonbug Kids
+#EXTINF:-1 group-title="Kids" tvg-id="618" tvg-logo="",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="NickJrAsia.sg" tvg-logo="",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -251,9 +251,6 @@ http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&
 ##http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 #EXTINF:-1 group-title="Knowledge" tvg-id="DocuBox.us" tvg-logo="",DocuBox
 http://iptv.prosto.tv:7000/ch93/video.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-id="DMAXHongKong.hk" tvg-logo="",DMAX
-http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
-##http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
 #EXTINF:-1 group-title="Knowledge" tvg-id="CHN",History (AnthymTV)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-ca.png",Love Nature
