@@ -1,7 +1,9 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml.gz,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz" refresh="14" m3uautoload="1"
 
 #EXTGRP: 🗾 | Anime
-#EXTINF:-1 group-title="🗾 | Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia
+#EXTINF:-1 group-title="🗾 | Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png",Animax Asia (4:3 letterboxed)
+http://eaglevision.visualsec.net:8443/live/gVAdNxbKIu3RkbwswSkgkg/1663856472/212.m3u8
+#EXTINF:-1 group-title="🗾 | Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia (16:9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="🗾 | Anime" tvg-id="Animax.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz",Animax Japan 
@@ -58,8 +60,6 @@ https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://anren.live/HK/BiIOU11uLA.m3u8#http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="MakkalTV.in" tvg-logo="",Makkal TV
 http://14.199.164.20:4001/play/a0l1/index.m3u8
-#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="MyxGlobal.us",Myx
-https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="MBCTV.kr" tvg-logo="" tvg-logo="" tvg-url="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz",MBC
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="MNBWorld.mn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-world-mn.png",MNB world
@@ -113,6 +113,8 @@ http://104.238.221.63:9138/stream/live/c20114.m3u8
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" tvg-shift="0",TVM Internacional
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="WarnerTVAsia.us" tvg-logo="" tvg-shift="0",WarnerTV
+http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/118.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="" tvg-shift="0",Wild West
 https://bk7l2w4nlx53-hls-live.5centscdn.com/WildWest/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="" tvg-shift="0",X.PD
@@ -131,9 +133,9 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/ch
 http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
 ##http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 #EXTINF:-1 group-title="📰🌠 | Infotainment" tvg-id="ANC.ph" tvg-logo="",ANC
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
+https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 group-title="📰🌠 | Infotainment" tvg-id="BloombergTVAsiaPacific.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bloomberg-television-us.png",Bloomberg Television
-http://210.210.155.37/dr9445/h/h03/index.m3u8
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="📰🌠 | Infotainment",Bloomberg TV Asia Live Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 group-title="📰🌠 | Infotainment" tvg-id="CCTV4Asia.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/cctv4-sg.png",CCTV4 
@@ -172,7 +174,7 @@ https://allanf181.github.io/adaptive-streams/streams/kr/MBN.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=NOW_JELLI_KEY
 http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
-#EXTINF:-1 group-title="📰🌠 | Infotainment" tvg-id="NHKChineseVision.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png",NHK Chinese Vision
+#EXTINF:-1 group-title="📰🌠 | Infotainment" tvg-id="NHKChinese.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="📰🌠 | Infotainment" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -220,7 +222,8 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/dreamworks-channel-hk.png",DreamWorks Channel
-https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8
+http://123.253.32.125:9995/stream/live/c20576.m3u8
+# https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="MiaoMi.hk" tvg-logo="",Miao Mi
 https://allanf181.github.io/adaptive-streams/streams/hk/MiaoMi.m3u8
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="618" tvg-logo="",Moonbug Kids
@@ -248,8 +251,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/discovery-asia-hk.png",Discovery Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+http://eaglevision.visualsec.net:8443/live/gVAdNxbKIu3RkbwswSkgkg/1663856472/224.m3u8
 #EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="DiscoveryScienceHongKong.hk" tvg-logo="",Discovery Science
 http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 ##http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
@@ -257,16 +259,16 @@ http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&
 http://iptv.prosto.tv:7000/ch93/video.m3u8
 #EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="CHN",History (AnthymTV)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="HistoryAsia.sg",History (A+E Networks)
+http://103.73.58.238:8443/live/1bH3eX5bCyDx1Sse_jYh4w/1663772274/412.m3u8
 #EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-ca.png",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="LoveNature4K.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-4k-ca.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="NationalGeographicHDSingapore.sg" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="NationalGeographicWildHDSingapore.sg" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",National Geographic Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="NationalGeographicHDSingapore.sg" tvg-logo="",National Geographic
+http://103.73.58.238:8443/live/1bH3eX5bCyDx1Sse_jYh4w/1663772274/398.m3u8
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="NationalGeographicWildHDSingapore.sg" tvg-logo="",National Geographic Wild
+http://103.73.58.238:8443/live/1bH3eX5bCyDx1Sse_jYh4w/1663772274/403.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="🔍 | Knowledge",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="CHN",Outdoors
@@ -308,13 +310,12 @@ https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_d
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOOD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="GustoTV.au",Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="GMALifeTV.ph",GMA Life TV
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=41228&extension=ts&play_token=OtpXkMLTQR
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="CHN",Home
 https://bk7l2w4nlx53-hls-live.5centscdn.com/House/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="HGTVAsia.us",HGTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-# https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
+https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="CHN",Lifestyle
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TLC/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="💃🍴 | Lifestyle",Metro Globe Network
@@ -352,7 +353,7 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="FoxMoviesMiddleEast.qa" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/FoxMoviesMENA.png",Fox Movies
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="HitsMovies.sg" tvg-logo="",Hits Movies
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429847
+http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/184.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="MyCinemaEurope.ch",My Cinema Europe
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="RushbyAMC.us",Rush by AMC
@@ -370,13 +371,13 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8
 
 #EXTGRP: 🎥🌠 | Movietainment
 #EXTINF:-1 group-title="🎥🌠 | Movietainment" tvg-id="HBOSingapore.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-hk.png",HBO
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429875
+http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/180.m3u8
 #EXTINF:-1 group-title="🎥🌠 | Movietainment" tvg-id="HBOFamilyAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-family-hk.png",HBO Family
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429884
 #EXTINF:-1 group-title="🎥🌠 | Movietainment" tvg-id="HBOHitsAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-hits-hk.png",HBO Hits
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429878
+http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/191.m3u8
 #EXTINF:-1 group-title="🎥🌠 | Movietainment" tvg-id="HBOSignatureAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-signature-hk.png",HBO Signature
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429881
+http://eaglevision.visualsec.net:8443/live/gVAdNxbKIu3RkbwswSkgkg/1663856472/221.m3u8
 #EXTINF:-1 group-title="🎥🌠 | Movietainment" tvg-id="Thrill.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/thrill-hk.png",Thrill
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 
@@ -388,10 +389,14 @@ http://203.77.246.50:5000/udp/239.1.1.144:5000
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png",Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="MTVLive.uk" tvg-logo="https://iptv-pro.github.io/logo/MTV%20Live.png",MTV Live
+http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/131.m3u8
+#EXTINF:-1 group-title="🎶 | Music" tvg-id="718" tvg-logo="https://iptv-pro.github.io/logo/MTV%20Live.png",MTV Live (one hour)
 https://nonton.site:8443/live/mustakim/mustakim/37460.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="MTVVietnam.vn" tvg-logo="https://iptv-pro.github.io/logo/MTV%E7%BB%BC%E5%90%88%E7%94%B5%E8%A7%86%E5%8F%B0.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MTV Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🎶 | Music" tvg-id="MyxGlobal.us",Myx
+https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="StingrayQello.ca",Qello Concerts
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="StingrayIConcerts.ch",Stingray iConcerts
@@ -420,9 +425,8 @@ https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b5000000.m3u8
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="📰 | News",BeritaSatu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1 group-title="📰 | News" tvg-id="CNBCAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnbc-us.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",CNBC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="📰 | News" tvg-id="CNBCAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnbc-us.png",CNBC
+http://eaglevision.visualsec.net:8443/live/gVAdNxbKIu3RkbwswSkgkg/1663856472/231.m3u8
 #EXTINF:-1 group-title="📰 | News" tvg-id="CNNIndonesia.id",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8#http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
 #EXTINF:-1 group-title="📰 | News" tvg-id="CNNInternationalAsiaPacific.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cnn-international-int.png",CNN International
