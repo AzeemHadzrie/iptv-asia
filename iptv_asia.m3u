@@ -595,25 +595,25 @@ http://210.210.155.35/dr9445/h/h01/index.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTGRP: ☁ | Weather
-#EXTINF:-1 tvg-id="AccuWeather.us" tvg-logo="https://i.imgur.com/6ZJlCUG.png" group-title=" ☁ |Weather",AccuWeather Now
+#EXTINF:-1 tvg-id="AccuWeather.us" tvg-logo="https://i.imgur.com/6ZJlCUG.png" group-title=" ☁ | Weather",AccuWeather Now
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title=" ☁ |Weather",Fox Weather
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title=" ☁ | Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title=" ☁ |Weather",Meteonews
+#EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title=" ☁ | Weather",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Pattrn.us" tvg-logo="https://i.imgur.com/xnKQieS.png" group-title=" ☁ |Weather",Pattrn
+#EXTINF:-1 tvg-id="Pattrn.us" tvg-logo="https://i.imgur.com/xnKQieS.png" group-title=" ☁ | Weather",Pattrn
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWeatherNation.us" tvg-logo="https://i.imgur.com/EKm0z7a.png" group-title=" ☁ |Weather",Pluto TV WeatherNation
+#EXTINF:-1 tvg-id="PlutoTVWeatherNation.us" tvg-logo="https://i.imgur.com/EKm0z7a.png" group-title=" ☁ | Weather",Pluto TV WeatherNation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
-#EXTINF:-1 tvg-id="Weathernews.jp" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title=" ☁ |Weather",Weather News
+#EXTINF:-1 tvg-id="Weathernews.jp" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title=" ☁ | Weather",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title=" ☁ |Weather",Weathernation
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title=" ☁ | Weather",Weathernation
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
-#EXTINF:-1 tvg-id="Weatherspy.ca" tvg-logo="https://i.imgur.com/8oJYi1z.png" group-title=" ☁ |Weather",Weatherspy (CA)
+#EXTINF:-1 tvg-id="Weatherspy.ca" tvg-logo="https://i.imgur.com/8oJYi1z.png" group-title=" ☁ | Weather",Weatherspy (CA)
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title=" ☁ |Weather",WeatherSpy (US)
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title=" ☁ | Weather",WeatherSpy (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title=" ☁ |Weather",WeatherSpy Europe
+#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title=" ☁ | Weather",WeatherSpy Europe
 https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTGRP: 📻 | Radio
