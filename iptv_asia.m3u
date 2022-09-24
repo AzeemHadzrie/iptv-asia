@@ -635,7 +635,7 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 http://22403.live.streamtheworld.com:80/CLASS95AAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png" tvg-id="CHN" group-title="📻 | Radio",CNA 938 Live Singapore
 http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="news",CNA938
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",CNA938
 http://22893.live.streamtheworld.com:80/938NOW_PREM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/era/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio",Era FM
 http://astro2.rastream.com/era
