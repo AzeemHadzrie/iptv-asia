@@ -703,7 +703,7 @@ http://22253.live.streamtheworld.com:80/UFM_1003AAC.aac
 http://22903.live.streamtheworld.com:80/WARNA942FMAAC.aac
 #EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/5/92895.v5.png" tvg-id="CHN" group-title="📻 | Radio",XRadio
 http://xradio.zone:9420/stream
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="pop",Yes 933
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",Yes 933
 https://22903.live.streamtheworld.com:443/YES933AAC_SC
 #EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" tvg-id="CHN" group-title="📻 | Radio",YES 933 Radio
 http://22893.live.streamtheworld.com:80/YES933AAC.aac
