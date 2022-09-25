@@ -16,7 +16,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1664028007/ei/B
 #EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="CHN" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM (MY)
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 #EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="502" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama (MY)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJbU1zdGIxWDEyaDRsdHhyNVNweTVPcGRvNmVLOXNLaklGa0ZIN0pYS3Axb3ZNdFJncnFVZHFic0tYbDc0UUZPeW01bFlMUk9BdXdHWjZjTTlCNFB0emYxdVNJalFmQXNWVDVsMUF3MFpoc01lWWpnMUNWS3pRcWpGdjNOMks0MHA4anRVS2F4TUY4MEdhSmhjUmh2Vzg1MlRReHRIQzNzY013cFJXWE44bE14WVc5YV9GWDkyZ3VaUmFTZGVINHdyTFEtdmo0bkF1dmZhaFV1TkZQajdqSkUweTFjUFd4VE9VTk9Qay14Qm5qVWdGYVE3cGFVZFZZMFI3Wk91b3RuSzZDUUxlVS1qNzNmVFVab3dOeDhPQ0Z3cjFFZ3VTRDdXZFl1TnNkbEs3RCZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkltTXN0YjFYMTJoNGx0eHI1U3B5NU9wZG82ZUs5c0tqSUZrRkg3SlhLcDFvdk10UmdycVVkcWJzS1hsNzRRRk95bTVsWUxST0F1d0daNmNNOUI0UHR6ZjF1U0lqUWZBc1ZUNWwxQXcwWmhzTWVZamcxQ1ZLelFxakZ2M04ySzQwcDhqdFVLYXhNRjgwR2FKaGNSaHZXODUyVFF4dEhDM3NjTXdwUldYTjhsTXhZVzlhX0ZYOTJndVpSYVNkZUg0d3JMUS12ajRuQXV2ZmFoVXVORlBqN2pKRTB5MWNQV3hUT1VOT1BrLXhCbmpVZ0ZhUTdwYVVkVlkwUjdaT3VvdG5LNkNRTGVVLWo3M2ZUVVpvd054OE9DRndyMUVndVNEN1dkWXVOc2RsSzdEIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=DAdLTI8jbHf2EhSNAwzrCjwuG8c%3d
 #EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="Channel5.sg" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 (SG)
@@ -84,8 +84,10 @@ http://eaglevision.visualsec.net:8443/live/gVAdNxbKIu3RkbwswSkgkg/1663856472/212
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="AnimaxKorea.kr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" tvg-url="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz",Animax Korea
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
-#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="Aniplus.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png",Aniplus
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="AniplusAsia.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png",Aniplus Asia
 http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="Aniplus.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png",Aniplus Korea
+http://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=217&q=default
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="ArirangTV.kr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/arirang-int.png",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/arirang-int.png",Arirang Radio
@@ -106,7 +108,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/SNL/961ac1c875f5884f31bdd177365ef1e3
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="https://i.imgur.com/ED2jB5z.jpg",Cops
 https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CCTV4Asia.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/cctv4-sg.png",CCTV4 
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CTSTV.kr",CTS Christian TV
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="DragonTVInternational.cn" tvg-logo="",Dragon TV
@@ -125,6 +127,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/Chassy/961ac1c875f5884f31bdd177365ef
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 ##http://203.77.246.50:5000/udp/239.1.2.146:5000
 ##https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616430055
+##http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="Hits.sg" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",Hits
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="",Jerry
@@ -171,17 +174,19 @@ http://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="https://i.imgur.com/MkOnIBs.jpg",Pawn
 https://bk7l2w4nlx53-hls-live.5centscdn.com/PawnStars/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/phoenix-chinese-channel-hk.png",Phoenix Chinese Channel
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="PhoenixInfonewsChannel.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/phoenix-infonews-channel-hk.png",Phoenix InfoNews Channel
-http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="PlayWorks.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/playworksdigital_playworks_1.png",Play.Works
 https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="",Reality
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="RockEntertainment.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-entertainment-asi.png",ROCK Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
+# http://103.152.216.26:8443/live/yeUhgO3AHkPA9jx1o_ldCw/1664102892/193.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="RockExtreme.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-extreme-asi.png",ROCK Extreme
 http://210.210.155.37/dr9445/h/h15/index.m3u8
+# http://203.77.246.50:5000/udp/239.1.2.132:5000
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="RaiItaliaAsia.it",RAI Italia Asia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="RTPiAsia.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",RTP Internacional Asia
@@ -206,6 +211,8 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20158&extension=ts&
 http://59.125.122.90:18504/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18504/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="",Swam Folk
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="SBSM.kr",SBS M
+http://han.ddkdxmkj.com/api/sbs.php?id=9
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVNAsia.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvn-hk.png",tvN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/TheIndonesiaChannel.png",The Indonesia Channel
@@ -225,10 +232,9 @@ http://210.210.155.37/uq2663/h/h158/index2.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" tvg-shift="0",TVM Internacional
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TV5MondeAsia.fr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/tv5-monde-int.png",TV5Monde Asie
-http://210.210.155.37/dr9445/s/s24/index.m3u8
-#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="UATV.ua" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",UATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
-https://ua-tv.cdn-02.cosmonova.net.ua/hls/ua-tv_ua.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="UATV.ua",UATV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="VOATV.us",VOA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/VOA-TVMC06_1080/chunklist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="WarnerTVAsia.us" tvg-logo="" tvg-shift="0",WarnerTV
@@ -251,6 +257,8 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://203.77.246.50:5000/udp/239.1.1.144:5000
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png",Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="🎶 | Music" tvg-id="MTVJapan.jp" tvg-logo="https://iptv-pro.github.io/logo/MTV%E7%BB%BC%E5%90%88%E7%94%B5%E8%A7%86%E5%8F%B0.png",MTV Japan
+http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="MTVLive.uk" tvg-logo="https://iptv-pro.github.io/logo/MTV%20Live.png",MTV Live
 http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/131.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="718" tvg-logo="https://iptv-pro.github.io/logo/MTV%20Live.png",MTV Live (one hour)
@@ -321,8 +329,8 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 
 #EXTGRP: 🍭 | Kids
-#EXTINF:-1 group-title="🍭 | Kids" tvg-id="Animax.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz",Animax Japan 
-https://code.television4you.xyz/getlink/yoitv?id=M9b8YoeShhTsfaXXoNZJDw==
+#EXTINF:-1 group-title="🍭 | Kids" tvg-id="Animax.jp" tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png",Animax Japan 
+http://cdn.us195.jpnettv.live:1935/jptv/janimax_720/playlist.m3u8
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="BoomerangAsia.sg" tvg-logo="",Boomerang
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -427,7 +435,7 @@ http://live.cgtn.com/1000/prog_index.m3u8#https://news.cgtn.com/resource/live/en
 #EXTINF:-1 group-title="📰 | News" tvg-id="CGTNArabic.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cgtn-arabic-int.png",CGTN Arabic
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 group-title="📰 | News" tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cgtn-french-int.png",CGTN Francais
-https://livefr.cgtn.com/1000f/prog_i8index.m3u8
+https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 group-title="📰 | News" tvg-id="CGTNRussian.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cgtn-russian-int.png",CGTN Russian
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 group-title="📰 | News" tvg-id="CGTNSpanish.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cgtn-spanish-int.png",CGTN Spanish
@@ -487,7 +495,7 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 #EXTINF:-1 group-title="📰 | News" tvg-id="CHN",WallStreet
 https://bk7l2w4nlx53-hls-live.5centscdn.com/BUSINESS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="📰 | News" tvg-id="WION.in",Wion
-http://210.210.155.37/uq2663/h/h91/index.m3u8
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 group-title="📰 | News" tvg-id="YTN.kr" tvg-logo="" tvg-url="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz",YTN
 https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
 
@@ -540,7 +548,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="🛐 | Religious" tvg-id="Kanal10Asia.se" tvg-logo="https://i.imgur.com/RQXBwlz.png",Kanal 10 Asia
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
-#EXTINF:-1 group-title="🛐 | Religious" tvg-id="TBNAsia.us".TBN Asia
+#EXTINF:-1 group-title="🛐 | Religious" tvg-id="TBNAsia.us",TBN Asia
 http://210.210.155.37/qwr9ew/s/s39/index.m3u8
 
 #EXTGRP: 💃🍴 | Lifestyle
@@ -597,7 +605,7 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTGRP: ☁ | Weather
 #EXTINF:-1 tvg-id="AccuWeather.us" tvg-logo="https://i.imgur.com/6ZJlCUG.png" group-title=" ☁ | Weather",AccuWeather Now
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title=" ☁ | Weather",Fox Weather
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="☁ | Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title=" ☁ | Weather",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
