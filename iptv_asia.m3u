@@ -115,6 +115,8 @@ https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/in
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png",ERT World
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 tvg-id="ETBBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="🌠 | Entertainment",ETB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="ETTVAmerica.tw" tvg-logo="",ETTV America
 http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="FastFunBox.us" tvg-logo="",Fast&Fun Box
@@ -158,6 +160,8 @@ https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=NOW_JELLI_KEY
 http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
+#EXTINF:-1 tvg-id="NBTWorld.th" tvg-logo="https://i.imgur.com/GCcmL8E.png" group-title="🌠 | Entertainment",NBT World
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="NHKChinese.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png",NHK World
@@ -325,7 +329,7 @@ http://61.219.170.95:18529/.m3u8#http://59.125.122.90:18529/.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="StarMoviesMiddleEast.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png",Star Movies Middle East
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20213&extension=ts&play_token=RfS1HRRyKs
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="TVNMovies.hk",tvN Movies
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="TVNMovies.hk" tvg-logo="https://i.imgur.com/oLzTyUX.png",tvN Movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="Thrill.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/thrill-hk.png",Thrill
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
@@ -607,7 +611,7 @@ http://210.210.155.35/dr9445/h/h01/index.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTGRP: ☁ | Weather
-#EXTINF:-1 tvg-id="AccuWeather.us" tvg-logo="https://i.imgur.com/6ZJlCUG.png" group-title=" ☁ | Weather",AccuWeather Now
+#EXTINF:-1 tvg-id="AccuWeather.us" tvg-logo="https://i.imgur.com/6ZJlCUG.png" group-title="☁ | Weather",AccuWeather Now
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="☁ | Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
