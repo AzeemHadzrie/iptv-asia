@@ -197,7 +197,7 @@ https://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_asia/playlist_3.m3u8
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="StarBharat.in",Star Bharat
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
-#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="StarChineseChannel.hk" tvg-logo="https://iptv-pro.github.io/logo/Star%20Chinese%20Channel.png",Star Chinese Channel Taiwan
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="StarChineseChannel.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/star-chinese-channel-hk.png",Star Chinese Channel Taiwan
 http://61.219.170.95:18522/.m3u8#http://59.125.122.90:18522/.m3u8#http://60.251.33.252:18522/.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="StarGold.in",Star Gold
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
@@ -223,11 +223,11 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/CRIME/961ac1c875f5884f31bdd177365ef1
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="305" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Classic.png",TVB Classic
 http://104.238.221.63:9138/stream/live/c21061.m3u8
-#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVBJade.hk" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Jade.png",TVB Jade
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVBJade.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvb-jade-hk.png",TVB Jade
 http://172.96.140.34:9138/stream/live/c20653.m3u8
-#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVBXingHe.hk" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Xing%20He.png",TVB Xing He
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVBXingHe.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvb-xing-he-hk.png",TVB Xing He
 http://104.238.221.63:9138/stream/live/c20114.m3u8
-#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVBSAsia.tw",TVBS Asia
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVBSAsia.tw" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvbs-asia-hk.png",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVEInternacionalAsiaOceania.es" tvg-shift="0",TVE Internacional Asia-Oceania
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
@@ -317,9 +317,9 @@ http://eaglevision.visualsec.net:8443/live/gVAdNxbKIu3RkbwswSkgkg/1663856472/221
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="RushbyAMC.us",Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SCMChina.png",Star Chinese Movies Asia
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/star-chinese-movies-hk.png",Star Chinese Movies Asia
 https://nonton.site:8443/live/mustakim/mustakim/780.m3u8
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="StarChineseMovies.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/SCMChina.png",Star Chinese Movies HD Taiwan
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="StarChineseMovies.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/star-chinese-movies-hk.png",Star Chinese Movies HD Taiwan
 http://61.219.170.95:18529/.m3u8#http://59.125.122.90:18529/.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="StarMoviesHDIndia.in" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png",Star Movies India
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
@@ -611,21 +611,21 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="☁ | Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title=" ☁ | Weather",Meteonews
+#EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="☁ | Weather",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Pattrn.us" tvg-logo="https://i.imgur.com/xnKQieS.png" group-title=" ☁ | Weather",Pattrn
+#EXTINF:-1 tvg-id="Pattrn.us" tvg-logo="https://i.imgur.com/xnKQieS.png" group-title="☁ | Weather",Pattrn
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWeatherNation.us" tvg-logo="https://i.imgur.com/EKm0z7a.png" group-title=" ☁ | Weather",Pluto TV WeatherNation
+#EXTINF:-1 tvg-id="PlutoTVWeatherNation.us" tvg-logo="https://i.imgur.com/EKm0z7a.png" group-title="☁ | Weather",Pluto TV WeatherNation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
-#EXTINF:-1 tvg-id="Weathernews.jp" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title=" ☁ | Weather",Weather News
+#EXTINF:-1 tvg-id="Weathernews.jp" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="☁ | Weather",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title=" ☁ | Weather",Weathernation
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="☁ | Weather",Weathernation
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
-#EXTINF:-1 tvg-id="Weatherspy.ca" tvg-logo="https://i.imgur.com/8oJYi1z.png" group-title=" ☁ | Weather",Weatherspy (CA)
+#EXTINF:-1 tvg-id="Weatherspy.ca" tvg-logo="https://i.imgur.com/8oJYi1z.png" group-title="☁ | Weather",Weatherspy (CA)
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title=" ☁ | Weather",WeatherSpy (US)
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="☁ | Weather",WeatherSpy (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title=" ☁ | Weather",WeatherSpy Europe
+#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="☁ | Weather",WeatherSpy Europe
 https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTGRP: 📻 | Radio
