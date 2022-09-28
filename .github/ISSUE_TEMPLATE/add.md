@@ -13,5 +13,5 @@ assignees: ''
 **Stream Link**
 [...]
 
-**EPG id (use Example.un if you didn't find)**
+**EPG id (use CHN if you didn't find)**
 [...]
