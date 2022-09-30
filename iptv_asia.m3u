@@ -135,6 +135,8 @@ http://210.210.155.35/uq2663/h/h19/02.m3u8
 ##http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="Hits.sg" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",Hits
 http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="HunanTVWorld.cn",Hunan TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="",Jerry
 https://bk7l2w4nlx53-hls-live.5centscdn.com/JERRY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="Kix.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/kix-asi.png",KIX
@@ -279,6 +281,12 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="StingrayQello.ca",Qello Concerts
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1 group-title="🎶 | Music" tvg-id="QwestTVClassical.fr",Qwest TV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="🎶 | Music" tvg-id="QwestTVJazzBeyond.fr",Qwest TV Jazz & Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="🎶 | Music" tvg-id="QwestTVMix.fr",Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="StingrayIConcerts.ch",Stingray iConcerts
 http://myott.top/stream/P4H2M76YRH/267.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="StingrayDjazz.nl",Stingray Djazz
@@ -381,6 +389,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-sa
 https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="AnimalPlanetHongKong.hk",Animal Planet Mandarin
 http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="BBCEarthAsia.uk" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cgtn-documentary-int.png",CGTN Documentary
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="CHN",Discover
@@ -426,6 +437,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsonian
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="📰 | News" tvg-id="ABCAustraliaAsia.au" tvg-logo="",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="📰 | News" tvg-id="ABPNews.in",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF:-1 group-title="📰 | News" tvg-id="ANC.ph" tvg-logo="",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 group-title="📰 | News" tvg-id="ANNNews.jp" tvg-logo="",ANN News
