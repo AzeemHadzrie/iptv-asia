@@ -264,6 +264,8 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://203.77.246.50:5000/udp/239.1.1.144:5000
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png",Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="🎶 | Music" tvg-id="MezzoLiveHD.fr" tvg-logo="",Mezzo Live HD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/27753
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="MTVJapan.jp" tvg-logo="https://iptv-pro.github.io/logo/MTV%E7%BB%BC%E5%90%88%E7%94%B5%E8%A7%86%E5%8F%B0.png",MTV Japan
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="MTVLive.uk" tvg-logo="https://iptv-pro.github.io/logo/MTV%20Live.png",MTV Live
@@ -285,6 +287,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playl
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="StingrayIConcerts.ch",Stingray iConcerts
 http://myott.top/stream/P4H2M76YRH/267.m3u8
+#EXTINF:-1 group-title="🎶 | Music" tvg-id="StingrayCMusic.uk",Stingray CMusic
+http://cbxedge.synapsetv.com/picker/tsstreamer/?f=CMusicLDAI_SD
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="StingrayDjazz.nl",Stingray Djazz
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="StingrayKaraoke.ca",Stingray Karaoke
