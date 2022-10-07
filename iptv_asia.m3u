@@ -316,7 +316,7 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="HitsMovies.sg" tvg-logo="",Hits Movies
 http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/184.m3u8
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOSingapore.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-hk.png",HBO
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-hk.png",HBO
 http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/180.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOFamilyAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-family-hk.png",HBO Family
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429884
@@ -343,7 +343,7 @@ https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/thr
 
 #EXTGRP: 🍭 | Kids
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="Animax.jp" tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png",Animax Japan 
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="BoomerangAsia.sg" tvg-logo="",Boomerang
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -361,12 +361,13 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="DisneyChannelJapan.jp" tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz",Disney Channel Japan
-http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+https://cdn.us195.jpnettv.live/jptv/disney_channel/playlist.m3u8
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/dreamworks-channel-hk.png",DreamWorks Channel
 http://123.253.32.125:9995/stream/live/c20576.m3u8
-# https://allanf181.github.io/adaptive-streams/streams/us/DreamWorksChannelAsia.m3u8
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="MiaoMi.hk" tvg-logo="",Miao Mi
-https://allanf181.github.io/adaptive-streams/streams/hk/MiaoMi.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="618" tvg-logo="",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="NickJrAsia.sg" tvg-logo="",Nick Jr.
@@ -607,6 +608,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/House/961ac1c875f5884f31bdd177365ef1
 https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="CHN",Lifestyle
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TLC/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="LuxeTV.fr",Luxe TV
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="💃🍴 | Lifestyle",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="PetClubTV.uk",Pet Club TV
