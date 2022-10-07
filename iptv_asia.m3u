@@ -88,7 +88,7 @@ https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="AnimaxKorea.kr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png" tvg-url="https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz",Animax Korea
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="AniplusAsia.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png",Aniplus Asia
-http://210.210.155.37/dr9445/h/h02/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/aniplus.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="Aniplus.kr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png",Aniplus Korea
 http://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=217&q=default
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="ArirangTV.kr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/arirang-int.png",Arirang TV
@@ -129,24 +129,21 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="",Gear Head
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Chassy/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="GEM.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/gem-sg.png",GEM TV Asia
-http://210.210.155.35/uq2663/h/h19/02.m3u8
-##http://203.77.246.50:5000/udp/239.1.2.146:5000
-##https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616430055
-##http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+http://203.77.246.50:5000/udp/239.1.2.146:5000
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="Hits.sg" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png",Hits
-http://210.210.155.37/dr9445/h/h37/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/hitsasia.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="HunanTVWorld.cn",Hunan TV
 http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="",Jerry
 https://bk7l2w4nlx53-hls-live.5centscdn.com/JERRY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="Kix.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/kix-asi.png",KIX
-http://210.210.155.37/dr9445/h/h07/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/kixasia.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/kbs-world-int.png",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="KMTV.kr" tvg-logo="",KMTV Asia
 https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="KPlus.sg" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KPlus.png",K+
-http://210.210.155.37/uq2663/h/h08/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/kplus.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="KContentbyCJENM.us" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KContentByCJENM.png",K Content by CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="LotusMacau.mo" tvg-logo="",Lotus Macau
@@ -174,8 +171,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="NHKWorldPremium.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/nhk-world-japan-int.png",NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="OneTVAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/one-sg.png",ONE TV Asia
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-##http://203.77.246.50:5000/udp/239.1.2.236:5000
+http://203.77.246.50:5000/udp/239.1.2.236:5000
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="OBSGyeonginTV.kr" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/OBSTele.png",OBS Gyeongin TV
 https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="ParamountNetworkSingapore.sg" tvg-logo="",Paramount Network
@@ -191,15 +187,15 @@ https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="",Reality
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="RockEntertainment.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-entertainment-asi.png",ROCK Entertainment
-http://210.210.155.37/dr9445/h/h16/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockentertainment.m3u8
 # http://103.152.216.26:8443/live/yeUhgO3AHkPA9jx1o_ldCw/1664102892/193.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="RockExtreme.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-asia/blue-ant-extreme-asi.png",ROCK Extreme
-http://210.210.155.37/dr9445/h/h15/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockextreme.m3u8
 # http://203.77.246.50:5000/udp/239.1.2.132:5000
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="RaiItaliaAsia.it",RAI Italia Asia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="RTPiAsia.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",RTP Internacional Asia
-http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rtpiasia.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="RTRPlaneta.ru" tvg-logo="",RTR-Planeta
 https://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_asia/playlist_3.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png",Sofy TV
@@ -223,7 +219,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="SBSM.kr",SBS M
 http://han.ddkdxmkj.com/api/sbs.php?id=9
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVNAsia.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvn-hk.png",tvN
-http://210.210.155.37/dr9445/h/h20/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/tvnasia.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/TheIndonesiaChannel.png",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="CHN" tvg-logo="" tvg-shift="0",True Crime
@@ -303,11 +299,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="ActionHollywoodMovies.hk",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="CelestialClasicMovies.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-classic-movies-hk.png",Celestial Classic Movies
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/celestial2.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="CelestialMovies.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-movies-hk.png",Celestial Movies
-http://210.210.155.35/dr9445/h/h14/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/celestial.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="CinemaWorld.my",CinemaWorld
-http://210.210.155.37/dr9445/h/h04/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/cinemaworld.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="CinemaOneGlobal.ph",Cinema One Global
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="CinemaxSingapore.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/cinemax-hk.png",Cinemax
@@ -329,7 +325,7 @@ http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/191.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOSignatureAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-signature-hk.png",HBO Signature
 http://eaglevision.visualsec.net:8443/live/gVAdNxbKIu3RkbwswSkgkg/1663856472/221.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="MyCinemaEurope.ch",My Cinema Europe
-http://210.210.155.37/uq2663/h/h18/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/mycinemaeurope.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="RushbyAMC.us",Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/star-chinese-movies-hk.png",Star Chinese Movies Asia
@@ -341,9 +337,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="StarMoviesMiddleEast.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png",Star Movies Middle East
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20213&extension=ts&play_token=RfS1HRRyKs
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="TVNMovies.hk" tvg-logo="https://i.imgur.com/oLzTyUX.png",tvN Movies
-http://210.210.155.37/dr9445/h/h21/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/tvnmovies.m3u8
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="Thrill.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/thrill-hk.png",Thrill
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/thrilltv.m3u8
 
 #EXTGRP: 🍭 | Kids
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="Animax.jp" tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png",Animax Japan 
@@ -527,7 +523,7 @@ https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
 #EXTINF:-1 group-title="🎾🎮 | Sports/Gaming" tvg-id="BeinSports.qa",Bein Sports
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
 #EXTINF:-1 group-title="🎾🎮 | Sports/Gaming" tvg-id="eGGNetwork.my",Egg Network
-http://210.210.155.37/uq2663/h/h22/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/eggnetwork.m3u8
 #EXTINF:-1 group-title="🎾🎮 | Sports/Gaming" tvg-id="EDGEsport.us",EDGEsport
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎾🎮 | Sports/Gaming" tvg-id="ETLive.us",ET Live
@@ -543,7 +539,7 @@ https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="🎾🎮 | Sports/Gaming",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTV.de" group-title="🎾🎮 | Sports/Gaming",Motorvision
-http://210.210.155.35/uq2663/h/h09/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/motorvision.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" group-title="🎾🎮 | Sports/Gaming",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="GameplayRoblox.us" group-title="🎾🎮 | Sports/Gaming",Pluto TV Roblox
@@ -573,7 +569,7 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="🛐 | Religious" tvg-id="Kanal10Asia.se" tvg-logo="https://i.imgur.com/RQXBwlz.png",Kanal 10 Asia
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 #EXTINF:-1 group-title="🛐 | Religious" tvg-id="TBNAsia.us",TBN Asia
-http://210.210.155.37/qwr9ew/s/s39/index.m3u8
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/tbnasia.m3u8
 
 #EXTGRP: 💃🍴 | Lifestyle
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="AsianFoodNetwork.sg" tvg-logo="",Asian Food Network
@@ -622,7 +618,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="TravelxpHD.in" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/travelxp-in.png",Travelxp HD
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="TV5MondeStyleHD.fr" tvg-logo="",TV5Monde Style HD
-http://210.210.155.35/dr9445/h/h01/index.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="💃🍴 | Lifestyle",World Fashion Channel International
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
