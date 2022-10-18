@@ -3,7 +3,9 @@ Channels from Asia (including international channels)
 
 ATTENTION! This playlist is on WIP, not only channels is completed some of them need to hunt for stream links.
 
-- URL: https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/main/iptv_asia.m3u
+## How to use
+
+Input https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/main/iptv_asia.m3u to your favorite IPTV player and press "Open".
 
 ## About
 
@@ -27,3 +29,9 @@ NOTE: If your player can support this playlist, send a issue and let us know!
 - IPTVnator (first supported app!)
 - MyIPTVPlayer (works but EPG limited to 1, just use only 1 or something)
 - Kodi (sorta)
+
+## FAQ (WIP)
+
+### What is internet protocol television and how is it made?
+
+It is the delivery of television content over the IP networks, the playlist was mainly used for other Asian channels plus with International channels.
