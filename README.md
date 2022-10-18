@@ -17,6 +17,7 @@ The playlist was launched on 6th July 2022, starting with 4 channels: Animax, KB
 - NowJelli: A prop channel, will replace video with an testcard when we complete the video.
 - SPI International channels: After 2 minutes it show a locked screen
 - Star World Taiwan: ~~Audio still plays but video offline (some players)~~ down
+- VIVA (Russia): Hangs on some players.
 
 ## List of providers that can work with this playlist
 
