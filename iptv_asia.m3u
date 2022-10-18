@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml.gz,https://weareblahs.github.io/epg/astro.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://viva-russia.ru/scheduler/epg/epg.xml.gz" refresh="14" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml.gz,https://bit.ly/aqfadtvepg,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://viva-russia.ru/scheduler/epg/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="14" m3uautoload="1"
 
 #EXTGRP: ▶ | YouTube-exclusive channels
 #EXTINF:-1 group-title="▶ | YouTube-exclusive channels" tvg-id="CHN",COVID-19 Status - Real Time Dashboard; World Maps; Charts; News
@@ -13,9 +13,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1664028008/ei/B
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1664028007/ei/BrkuY66tOry32roPg62kWA/ip/103.140.250.237/id/7tNtU5XFwrU.3/source/yt_live_broadcast/requiressl/yes/tx/24197275/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgRsNARQMgCeZdgkbdCFtxZdDkiv376svUjxNUvt6KUCQCIQCZGr9E4a40apn_TfmkAgFIzqF26i250BJv5sqnCnIRDQ%3D%3D/file/index.m3u8
 
 #EXTGRP: 📺 | Free-to-air (divided by country code)
-#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="CHN" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM (MY)
+#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM (MY)
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
-#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="502" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama (MY)
+#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="631" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama (MY)
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJbU1zdGIxWDEyaDRsdHhyNVNweTVPcGRvNmVLOXNLaklGa0ZIN0pYS3Axb3ZNdFJncnFVZHFic0tYbDc0UUZPeW01bFlMUk9BdXdHWjZjTTlCNFB0emYxdVNJalFmQXNWVDVsMUF3MFpoc01lWWpnMUNWS3pRcWpGdjNOMks0MHA4anRVS2F4TUY4MEdhSmhjUmh2Vzg1MlRReHRIQzNzY013cFJXWE44bE14WVc5YV9GWDkyZ3VaUmFTZGVINHdyTFEtdmo0bkF1dmZhaFV1TkZQajdqSkUweTFjUFd4VE9VTk9Qay14Qm5qVWdGYVE3cGFVZFZZMFI3Wk91b3RuSzZDUUxlVS1qNzNmVFVab3dOeDhPQ0Z3cjFFZ3VTRDdXZFl1TnNkbEs3RCZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkltTXN0YjFYMTJoNGx0eHI1U3B5NU9wZG82ZUs5c0tqSUZrRkg3SlhLcDFvdk10UmdycVVkcWJzS1hsNzRRRk95bTVsWUxST0F1d0daNmNNOUI0UHR6ZjF1U0lqUWZBc1ZUNWwxQXcwWmhzTWVZamcxQ1ZLelFxakZ2M04ySzQwcDhqdFVLYXhNRjgwR2FKaGNSaHZXODUyVFF4dEhDM3NjTXdwUldYTjhsTXhZVzlhX0ZYOTJndVpSYVNkZUg0d3JMUS12ajRuQXV2ZmFoVXVORlBqN2pKRTB5MWNQV3hUT1VOT1BrLXhCbmpVZ0ZhUTdwYVVkVlkwUjdaT3VvdG5LNkNRTGVVLWo3M2ZUVVpvd054OE9DRndyMUVndVNEN1dkWXVOc2RsSzdEIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=DAdLTI8jbHf2EhSNAwzrCjwuG8c%3d
@@ -29,18 +29,18 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOcWtyd09fcFF1c1RhQXRXM1JqUC04dFF2WkNhdC1YM2d2c0JFcW1XbmlDdDNLMW1TQzltSm9zLXJQOS01dDh5enNrLVJtWVBjWFFlWmFNdjNkSEQzanhTMWZmM2tlTmlhMWwyWjRSTXoyVE11b0F1elF5TU9TWjR3cmtKRm9vT2dGUnQzWndrNHVUUkc4TU9yc2xhN3VMSDJqcTA5bDlWMnFHd2ZNdng4dkpBeU0zVTdsMm5nTTU5SFpwU1VsT1BhVXBiZmZIUWl2OVR4azNhYVdSTEJZTmFsMmxiT2RPTjFrQmtlR0ZCZW1qc0g1NjZGWWtVRmNfbFVIXzE4dHlkT2ltQjJ2cEtyeVBHRHJiVGRjdkg4WV9lVTh1ZllCakFlT3FYdlp3UWVPWHRpR040bTltSGQ3YmtOcmNuOFk4MmNWTlhENXlaamZPOTE2YmJFOUVKN3dGSm5vUkV4NGxMbk91c19RVnFRcHQmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTU2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaFVfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTnFrcndPX3BRdXNUYUF0VzNSalAtOHRRdlpDYXQtWDNndnNCRXFtV25pQ3QzSzFtU0M5bUpvcy1yUDktNXQ4eXpzay1SbVlQY1hRZVphTXYzZEhEM2p4UzFmZjNrZU5pYTFsMlo0Uk16MlRNdW9BdXpReU1PU1o0d3JrSkZvb09nRlJ0M1p3azR1VFJHOE1PcnNsYTd1TEgyanEwOWw5VjJxR3dmTXZ4OHZKQXlNM1U3bDJuZ001OUhacFNVbE9QYVVwYmZmSFFpdjlUeGszYWFXUkxCWU5hbDJsYk9kT04xa0JrZUdGQmVtanNINTY2RllrVUZjX2xVSF8xOHR5ZE9pbUIydnBLcnlQR0RyYlRkY3ZIOFlfZVU4dWZZQmpBZU9xWHZad1FlT1h0aUdONG05bUhkN2JrTnJjbjhZODJjVk5YRDV5WmpmTzkxNmJiRTlFSjd3Rkpub1JFeDRsTG5PdXNfUVZxUXB0IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=7uEZEYn%2bEPjtH%2fPOc4KcWEu9KyE%3d
 #EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="ChannelU.sg" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U (SG)
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754156/contextType/PLAYBACK/isAltUrl/False/a.mpd
-#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="147" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM (MY)
+#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM (MY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=didiktv|Referer=https://www.dailymotion.com
-#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="CHN" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat (MY)
+#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="DramaSangat" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat (MY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=dramasangat|Referer=https://www.dailymotion.com
 #EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="CHN" tvg-logo="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",HTV2 (VN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="CHN" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM (MY)
+#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM (MY)
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 #EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV (MY)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
@@ -60,15 +60,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 #EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="CHN" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6 (MY)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
-#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="148" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV (MY)
+#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV (MY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Referer=https://www.dailymotion.com
-#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="149" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 (MY)
+#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 (MY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
-#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="146" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY (MY)
+#EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY (MY)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 #EXTINF:-1 group-title="📺 | Free-to-air (divided by country code)" tvg-id="114" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/114.png",TV Alhijrah (MY)
 https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_7284c6607dcb11ec8005ad1f1e0e9f60/index.m3u8
@@ -228,7 +228,7 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/CRIME/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TheFilipinoChannelAsia.us" tvg-logo="",TFC Asia (United States)
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
-#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="305" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Classic.png",TVB Classic (Asia)
+#EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVBClassic" tvg-logo="https://iptv-pro.github.io/logo/TVB%20Classic.png",TVB Classic (Asia)
 http://206.221.176.47:64002
 #EXTINF:-1 group-title="🌠 | Entertainment" tvg-id="TVBJade.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/tvb-jade-hk.png",TVB Jade (Asia)
 http://23.237.10.66:16410
@@ -352,6 +352,8 @@ https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/thr
 #EXTGRP: 🍭 | Kids
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="Animax.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png",Animax Japan 
 https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
+#EXTINF:-1 group-title="🍭 | Kids" tvg-id="BabyFirst.us" status="online",BabyFirst (United States)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="BoomerangAsia.sg" tvg-logo="",Boomerang
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -621,7 +623,7 @@ https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="PetClubTV.uk",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="CHN",TechStorm
+#EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="505",TechStorm
 http://103.152.216.26:8443/live/p9vIrDdkej3Kwr2i0m2GGQ/1663527952/164.m3u8
 #EXTINF:-1 group-title="💃🍴 | Lifestyle" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Travel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
