@@ -5,7 +5,7 @@ ATTENTION! This playlist is on WIP, not only channels is completed some of them 
 
 ## How to use
 
-Input https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/main/iptv_asia.m3u to your favorite IPTV player and press "Open".
+Input [this URL](https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/main/iptv_asia.m3u) to your favorite IPTV player and press "Open".
 
 ## About
 
