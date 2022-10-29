@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml.gz,https://bit.ly/aqfadtvepg,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://viva-russia.ru/scheduler/epg/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="14" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/ph.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://bit.ly/aqfadtvepg,https://iptv-org.github.io/epg/guides/th.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://viva-russia.ru/scheduler/epg/epg.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="14" m3uautoload="1"
 
 #EXTGRP: ▶ | YouTube-exclusive channels
 #EXTINF:-1 group-title="▶ | YouTube-exclusive channels" tvg-id="CHN",COVID-19 Status - Real Time Dashboard; World Maps; Charts; News
@@ -272,7 +272,7 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/27753
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="MTVLive.uk" tvg-logo="https://iptv-pro.github.io/logo/MTV%20Live.png",MTV Live (United Kingdom)
 http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/131.m3u8
-#EXTINF:-1 group-title="🎶 | Music" tvg-id="531" tvg-logo="https://iptv-pro.github.io/logo/MTV%20Live.png",MTV Live (Malaysia)
+#EXTINF:-1 group-title="🎶 | Music" tvg-id="MTVAsia" tvg-logo="https://iptv-pro.github.io/logo/MTV%20Live.png",MTV Live (Malaysia)
 https://nonton.site:8443/live/mustakim/mustakim/37460.m3u8
 #EXTINF:-1 group-title="🎶 | Music" tvg-id="MTVVietnam.vn" tvg-logo="https://iptv-pro.github.io/logo/MTV%E7%BB%BC%E5%90%88%E7%94%B5%E8%A7%86%E5%8F%B0.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MTV (Vietnam)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
