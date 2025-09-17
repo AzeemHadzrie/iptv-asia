@@ -748,5 +748,7 @@ http://22893.live.streamtheworld.com:80/YES933AAC.aac
 #EXTINF:-1 tvg-logo="https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png" tvg-id="CHN" group-title="📻 | Radio",友声友色988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
 
+#EXTM3U billed-msg="Some channels are outdated; report issues at https://github.com/AzeemHadzrie/iptv-asia/issues"
+
 
 
