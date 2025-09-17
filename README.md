@@ -29,6 +29,8 @@ NOTE: If your player can support this playlist, send a issue and let us know!
 - IPTVnator (first supported app!)
 - MyIPTVPlayer (works but EPG limited to 1, just use only 1 or something)
 - Kodi
+- OTT Navigator
+- TiviMate
 
 ## FAQ (WIP)
 
