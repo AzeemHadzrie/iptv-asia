@@ -256,10 +256,10 @@ https://tglmp02.akamaized.net/out/v1/74c32a4ccb43407d8651fa61c365e4be/manifest.m
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="ActionHollywoodMovies.hk",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="CelestialClasicMovies.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-classic-movies-hk.png",Celestial Classic Movies
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="CelestialClasicMovies.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/hong-kong/celestial-classic-movies-hk.png",Celestial Classic Movies
 https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/celestial2.m3u8
 
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="CelestialMovies.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/celestial-movies-hk.png",Celestial Movies
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="CelestialMovies.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/hong-kong/celestial-movies-hk.png",Celestial Movies
 https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/celestial.m3u8
 
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="CinemaWorld.my" tvg-logo="",CinemaWorld
@@ -268,46 +268,41 @@ https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/cin
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="CinemaOneGlobal.ph",Cinema One Global
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="CinemaxSingapore.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/cinemax-hk.png",Cinemax
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="CinemaxSingapore.sg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/hong-kong/cinemax-hk.png",Cinemax
+http://103.179.182.117:6768/hls/26/26.m3u8
 
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="FilmBoxArthouse.pl" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/filmbox-arthouse-int.png",FilmBox Arthouse
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="FilmBoxArthouse.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/international/filmbox-arthouse-int.png",FilmBox Arthouse
 http://iptv.prosto.tv:7000/ch63/video.m3u8
 
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="HitsMovies.sg" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png",Hits Movies
 http://103.152.216.26:8443/live/x_BrzNAxYVKPBUVPMhk4OQ/1663856581/184.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-hk.png",HBO
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOAsia.sg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/hong-kong/hbo-hk.png",HBO
+http://103.179.182.117:6768/hls/27/27.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOFamilyAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-family-hk.png",HBO Family
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOFamilyAsia.sg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/hong-kong/hbo-family-hk.png",HBO Family
+http://103.179.182.117:6768/hls/30/30.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOHitsAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-hits-hk.png",HBO Hits
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohits.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOHitsAsia.sg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/hong-kong/hbo-hits-hk.png",HBO Hits
+http://103.179.182.117:6768/hls/28/28.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOSignatureAsia.sg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/hbo-signature-hk.png",HBO Signature
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbosign.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="HBOSignatureAsia.sg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/hong-kong/hbo-signature-hk.png",HBO Signature
+http://103.179.182.117:6768/hls/29/29.m3u8
 
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="MyCinemaEurope.ch" tvg-logo="https://iptv-pro.github.io/logo/My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AC%A7%E6%B4%B2%E7%94%B5%E5%BD%B1.png",My Cinema Europe
 https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/mycinemaeurope.m3u8
@@ -322,11 +317,11 @@ https://slive.mana2.my/RockAction/index.mpd
 #EXTINF:-1 group-title="🎥 | Movies" tvg-id="TVNMovies.hk" tvg-logo="https://i.imgur.com/oLzTyUX.png",tvN Movies
 https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/tvnmovies.m3u8
 
-#EXTINF:-1 group-title="🎥 | Movies" tvg-id="Thrill.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/thrill-hk.png",Thrill
+#EXTINF:-1 group-title="🎥 | Movies" tvg-id="Thrill.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/hong-kong/thrill-hk.png",Thrill
 https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/thrilltv.m3u8
 
 #EXTGRP: 🍭 | Kids
-#EXTINF:-1 group-title="🍭 | Kids" tvg-id="Animax.jp" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/animax-hk.png",Animax Japan 
+#EXTINF:-1 group-title="🍭 | Kids" tvg-id="Animax.jp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/hong-kong/animax-hk.png",Animax Japan 
 https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8
 
 #EXTINF:-1 group-title="🍭 | Kids" tvg-id="BabyFirst.us" status="online",BabyFirst (United States)
@@ -866,6 +861,7 @@ https://azura.xradio.zone/listen/xradio/radio.mp3
 
 
 #EXTM3U billed-msg="Some channels are outdated; report issues at https://github.com/AzeemHadzrie/iptv-asia/issues"
+
 
 
 
